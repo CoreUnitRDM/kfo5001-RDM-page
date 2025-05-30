@@ -12,11 +12,8 @@ site_title: KFO5001 RDM Portal
 company_name: Core unit for Research Data Management (cRDM@Wü)
 # this appears in the footer
 
-github_editme_path: CoreUnitRDM/kfo5001-RDM-page
+github_editme_path: CoreUnitRDM/kfo5001-RDM-page/tree/main/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
-
-# gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
-# if you're using GitLab, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 google_analytics:
 # if you have google-analytics ID, put it in. if not, edit this value to blank.
