@@ -6,3 +6,20 @@ _pdf
 .idea
 vendor/
 .bundle/
+
+# Temporary files
+nohup.out
+*.tmp
+*.temp
+
+# Windows Zone.Identifier files
+*:Zone.Identifier
+
+# Backup files
+*_old
+*_old.*
+*.bak
+*.backup
+
+# Jekyll serve process files
+.jekyll-cache/
